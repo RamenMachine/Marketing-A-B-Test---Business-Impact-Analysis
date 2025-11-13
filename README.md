@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Dashboard-61DAFB?style=for-the-badge)](https://ramenmachine.github.io/Marketing-A-B-Test---Business-Impact-Analysis/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Dashboard-61DAFB?style=for-the-badge)](https://ramenmachine.github.io/Marketing-Analysis-ABTest/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -32,7 +32,7 @@ This project demonstrates expertise in **data science**, **statistical analysis*
 
 ## 🚀 Live Demo
 
-**[👉 View Interactive Dashboard](https://ramenmachine.github.io/Marketing-A-B-Test---Business-Impact-Analysis/)**
+**[👉 View Interactive Dashboard](https://ramenmachine.github.io/Marketing-Analysis-ABTest/)**
 
 Experience the full platform with interactive visualizations, real-time statistical analysis, and dynamic confidence interval adjustments.
 
@@ -120,7 +120,7 @@ Experience the full platform with interactive visualizations, real-time statisti
 ## 📊 Project Structure
 
 ```
-Marketing-A-B-Test---Business-Impact-Analysis/
+Marketing-Analysis-ABTest/
 ├── 📓 Jupyter Notebooks (Data Science Analysis)
 │   ├── ab_test_eda.ipynb              # Exploratory Data Analysis
 │   ├── ab_test_frequentist.ipynb      # Frequentist Statistical Tests
@@ -265,8 +265,8 @@ npm --version
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis.git
-cd Marketing-A-B-Test---Business-Impact-Analysis
+git clone https://github.com/RamenMachine/Marketing-Analysis-ABTest.git
+cd Marketing-Analysis-ABTest
 
 # 2. Install Python dependencies
 pip install pandas numpy scipy matplotlib seaborn statsmodels jupyter
@@ -359,7 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **RamenMachine**
 
 - GitHub: [@RamenMachine](https://github.com/RamenMachine)
-- Repository: [Marketing-A-B-Test---Business-Impact-Analysis](https://github.com/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis)
+- Repository: [Marketing-Analysis-ABTest](https://github.com/RamenMachine/Marketing-Analysis-ABTest)
 
 ---
 
@@ -367,7 +367,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ using Python, React, and advanced statistical methods**
 
-[![GitHub stars](https://img.shields.io/github/stars/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis?style=social)](https://github.com/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis)
-[![GitHub forks](https://img.shields.io/github/forks/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis?style=social)](https://github.com/RamenMachine/Marketing-A-B-Test---Business-Impact-Analysis)
+[![GitHub stars](https://img.shields.io/github/stars/RamenMachine/Marketing-Analysis-ABTest?style=social)](https://github.com/RamenMachine/Marketing-Analysis-ABTest)
+[![GitHub forks](https://img.shields.io/github/forks/RamenMachine/Marketing-Analysis-ABTest?style=social)](https://github.com/RamenMachine/Marketing-Analysis-ABTest)
 
 </div>
