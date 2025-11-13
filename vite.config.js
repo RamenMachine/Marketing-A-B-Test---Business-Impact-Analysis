@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Marketing-A-B-Test---Business-Impact-Analysis/',
+  base: '/Marketing-Analysis-ABTest/',  // Updated to match new repository name
   plugins: [react()],
   server: {
     port: 3000,
