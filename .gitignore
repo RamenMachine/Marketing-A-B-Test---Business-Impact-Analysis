@@ -7,7 +7,7 @@ node_modules/
 coverage/
 
 # Production
-dist/
+# dist/  # Commented out - needed for GitHub Pages
 build/
 
 # Misc
@@ -51,7 +51,7 @@ pip-delete-this-directory.txt
 .coverage
 htmlcov/
 *.egg-info/
-dist/
+# dist/  # Commented out - needed for GitHub Pages
 build/
 
 # Jupyter Notebook
