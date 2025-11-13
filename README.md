@@ -323,11 +323,13 @@ This generates JSON files in the `public/` directory that the dashboard will aut
 npm run dev
 ```
 
-The dashboard will be available at **http://localhost:3000**
+The dashboard will be available at **http://localhost:3000** (or the port shown in your terminal)
+
+> **Note**: `localhost` links only work when you have the development server running on your local machine. If you're viewing this on GitHub, you'll need to clone the repository and run `npm run dev` locally to access the dashboard.
 
 ### Verification
 
-1. Open http://localhost:3000 in your browser
+1. Open http://localhost:3000 in your browser (make sure the dev server is running)
 2. You should see the dashboard with mock data (if JSON files aren't available)
 3. Try adjusting the confidence level dropdown
 4. Navigate through different tabs
