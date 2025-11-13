@@ -45,7 +45,6 @@ const ABTestDashboard = () => {
         if (frequentistRes || bayesianRes) {
           setData({
             frequentist: frequentistRes,
-            bayesian: bayesianRes,
             business: businessRes,
             // Calculate derived metrics
             adGroup: {
